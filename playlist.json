@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://sua-url.com/video_promocional.mp4",
+    "type": "VIDEO"
+  },
+  {
+    "url": "https://sua-url.com/aviso_reuniao.jpg",
+    "type": "IMAGE",
+    "durationMs": 8000
+  },
+  {
+    "url": "https://sua-url.com/outro_video.mp4",
+    "type": "VIDEO"
+  }
+]
