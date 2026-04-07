@@ -1,9 +1,8 @@
 {
   "playlist": [
-    "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    "http://vjs.zencdn.net/v/oceans.mp4",
+    "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
   ],
-  "tickerText": "CONEXÃO COM PAINEL GITHUB: SUCESSO! VÍDEOS ATIVOS.",
-  "version": 3
+  "tickerText": "SISTEMA QS MIDIA: CONECTADO COM SUCESSO! AGUARDANDO VÍDEOS...",
+  "version": 4
 }
-
