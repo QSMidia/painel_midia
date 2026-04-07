@@ -1,15 +1,8 @@
-[
-  {
-    "url": "https://sua-url.com/video_promocional.mp4",
-    "type": "VIDEO"
-  },
-  {
-    "url": "https://sua-url.com/aviso_reuniao.jpg",
-    "type": "IMAGE",
-    "durationMs": 8000
-  },
-  {
-    "url": "https://sua-url.com/outro_video.mp4",
-    "type": "VIDEO"
-  }
-]
+{
+  "playlist": [
+    "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  ],
+  "tickerText": "BEM-VINDO À QS MÍDIA - PAINEL ATIVO E CONECTADO!",
+  "version": 1
+}
