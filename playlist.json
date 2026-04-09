@@ -1,8 +1,8 @@
 {
   "playlist": [
-    "http://vjs.zencdn.net/v/oceans.mp4",
+    "http://vjs.zencdn.net/v/oceans.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
   ],
-  "tickerText": "SISTEMA QS MIDIA: CONECTADO COM SUCESSO! AGUARDANDO VÍDEOS...",
-  "version": 4
+  "tickerText": "PLAYLIST COM 3 VÍDEOS ATIVA - QS MÍDIA PLAYER - TELA EM MODO RETRATO",
+  "version": 6
 }
