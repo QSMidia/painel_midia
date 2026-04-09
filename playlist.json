@@ -1,8 +1,9 @@
 {
   "playlist": [
-    "http://vjs.zencdn.net/v/oceans.mp4","http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "http://vjs.zencdn.net/v/oceans.mp4",
+    "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
   ],
-  "tickerText": "PLAYLIST COM 3 VÍDEOS ATIVA - QS MÍDIA PLAYER - TELA EM MODO RETRATO",
-  "version": 6
+  "tickerText": "PLAYLIST COM 3 VÍDEOS ATIVA - BARRA AMARELA E PRETA - QS MÍDIA",
+  "version": 7
 }
