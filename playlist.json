@@ -1,9 +1,9 @@
 {
   "playlist": [
-    "http://vjs.zencdn.net/v/oceans.mp4",
-    "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-    "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4"
+    "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
   ],
-  "tickerText": "PLAYLIST COM 3 VÍDEOS ATIVA - BARRA AMARELA E PRETA - QS MÍDIA",
-  "version": 7
+  "tickerText": "LETREIRO RÁPIDO: REUNIÃO DE MORADORES AMANHÃ ÀS 19H NO SALÃO DE FESTAS!",
+  "condoNotice": "AVISOS IMPORTANTES DO CONDOMÍNIO:\n\n1. Use máscara nas áreas comuns.\n2. Manutenção do elevador social na quarta-feira.\n3. Não deixe sacos de lixo nos corredores.\n4. Nova pintura da garagem começando em breve.",
+  "version": 8
 }
