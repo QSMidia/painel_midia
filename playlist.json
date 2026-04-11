@@ -2,7 +2,7 @@
   "playlist": [
     "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   ],
-  "tickerText": "REUNIÃO DE CONDOMÍNIO AMANHÃ ÀS 19H!",
-  "condoNotice": "AVISOS IMPORTANTES:\n\n1. Use máscara nas áreas comuns.\n2. Manutenção do elevador amanhã.\n3. Não deixe lixo nos corredores.",
+  "tickerText": "AVISO RÁPIDO: REUNIÃO DE CONDOMÍNIO AMANHÃ ÀS 19H!",
+  "condoNotice": "INFORMATIVO DO CONDOMÍNIO:\n\n- Use máscara nas áreas comuns.\n- Manutenção dos elevadores na sexta-feira.\n- Não deixe sacos de lixo nos corredores.\n- Respeite o horário de silêncio após as 22h.",
   "version": 10
 }
